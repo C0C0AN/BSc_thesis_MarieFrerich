@@ -18,7 +18,7 @@
   - 9.) [R](http://de.download.cnet.com/R-for-Mac-OS-X/3000-2053_4-7831.html)
   - 10.) [R Studio](https://www.rstudio.com/products/rstudio/download/)
   - 11.) [Docker](https://www.docker.com/get-docker)
-  - 12.) [Free Server](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall)
+  - 12.) [Free Surfer](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall)
   - 13.) [Nipype Beginner's](http://miykael.github.io/nipype-beginner-s-guide/installation.html#anaconda)
   - 14.) [XCode](App Store)
   - 15.) [XQuartz](https://www.xquartz.org)
