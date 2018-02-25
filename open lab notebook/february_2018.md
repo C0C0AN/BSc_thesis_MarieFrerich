@@ -11,3 +11,6 @@
 
 # week 19.02.2018 - 26.02.2018
 
+- read ethic proposal written by Mirjam and Bene
+- started reading articles 
+- got transponder 
