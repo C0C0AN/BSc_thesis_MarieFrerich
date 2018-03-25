@@ -8,3 +8,4 @@
 - vacation
 
 # week 4 19.03.2018 - 26.03.2018
+- reread lectures from neuroscience to get infos on EEG
