@@ -15,3 +15,4 @@
 - Started to install Bregman as programme for before mentioned music feature extraction and distance calculation
 - Made my data management plan 
 - Decided to preregister my paper in the Journal of Cognition and made a structure for the paper I will hand in online
+- Informed myself about ethics proposal in the Psychological institut: found online checklists
