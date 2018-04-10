@@ -1,6 +1,6 @@
 # week 02.04.2018 - 09.04.2018
 - wrote my ethics proposal
-- read experimental paradigm by Mirjam (Hanke)
+- read Mirjam's experimental paradigm (guideline by Hanke)
 - started changing experimental code for EEG experiment
 
 # week 09.04.2018 - 16.04.2018
