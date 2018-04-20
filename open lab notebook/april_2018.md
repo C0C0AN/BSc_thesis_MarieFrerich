@@ -12,5 +12,10 @@
 - wrote script in jupyter notebook
 
 # week 16.04.2018 - 23.04.2018
+- changed code in jupyter notebook
+- successfully ran Bregman for music feature extraction and distance calculation
+- collected music features that can be extracted with Bregman
+- made questionnaire for music stimuli validation
+- attended talks, e.g. phonetics workshop
 
 # week 23.04.2018 - 30.04.2018
