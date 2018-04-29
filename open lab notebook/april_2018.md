@@ -19,3 +19,4 @@
 - attended talks, e.g. phonetics workshop
 
 # week 23.04.2018 - 30.04.2018
+- Python tutorials
